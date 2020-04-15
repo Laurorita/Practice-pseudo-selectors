@@ -1,0 +1,24 @@
+a{
+    border-style: solid;
+    width: 180px;
+    margin: 0px;
+    border-bottom: none;
+    text-decoration: none;
+    color: black;
+    
+    
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+
+    
+}
+#top{
+    border-top: none;
+}
+
+a:hover{
+    background-color: yellow;
+}
